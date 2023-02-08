@@ -1,0 +1,128 @@
+body{
+    background-color: white;
+}
+#photo{
+    margin-left:603px;
+    margin-top: 200px;
+    width: 300px;
+    height: 100px;
+    grid-template-columns: auto;
+}
+#text{
+    border-color: #bdc1c6;
+    width: 500px;
+    height: 30px;
+    margin-top: 45px;
+    margin-left: 500px;
+    background-color: white;
+    border-radius: 10px;
+}
+#sub{
+    margin-left: 605px;
+    margin-top: 15px;
+    height:35px;
+    width: 130px;
+    grid-template-columns: auto;
+    border: hidden;
+}
+#About{
+    font-size: 27px;
+    margin:5px;
+    color: black;
+    text-decoration: none;
+    grid-template-columns: auto;
+    display: inline-block;
+}
+#Store{
+    font-size: 27px;
+    margin-left: 20px;
+    color: black;
+    text-decoration: none;
+    grid-template-columns: auto;
+    display: inline-block;
+}
+#Gmail{
+    font-size: 27px;
+    margin-left: 1070px;
+    color: black;
+    text-decoration: none;
+    grid-template-columns: auto;
+    display: inline-block;
+}
+#Google_Image{
+        font-size: 27px;
+        margin-left: 15px;
+        color: black;
+        text-decoration: none;
+        grid-template-columns: auto;
+        display: inline-block;
+}
+#Sign_In{
+    font-size: 27px;
+    margin-left: 15px;
+    text-decoration: none;
+    grid-template-columns: auto;
+    display: inline-block;
+    background-color: #1a73e8;
+    color:white;
+}
+#Advertising{
+    font-size: 22px;
+    margin-top: 200px;
+    color:black;
+    text-decoration: none;
+    display: inline-block;
+    margin-left:9.8px;
+}
+#Business{
+    font-size: 22px;
+    margin-top:170px;
+    color:black;
+    text-decoration: none;
+    display: inline-block;
+    margin-left: 20px;
+}
+#HSW{
+    font-size: 22px;
+    margin-top:170px;
+    color:black;
+    text-decoration: none;
+    display: inline-block;
+    margin-left: 20px;
+}
+#Privacy{
+    font-size: 22px;
+    margin-top:170px;
+    color:black;
+    text-decoration: none;
+    display: inline-block;
+    margin-left: 880px;
+}
+#Terms{
+    font-size: 22px;
+    margin-top:170px;
+    color:black;
+    text-decoration: none;
+    display: inline-block;
+    margin-left: 20px;
+}
+#Settings{
+    font-size: 22px;
+    margin-top:170px;
+    color:black;
+    text-decoration: none;
+    display: inline-block;
+    margin-left: 20px;
+}
+#Lucky{
+    margin-left: 10px;
+    height:35px;
+    width: 130px;
+    grid-template-columns: auto;
+    border: hidden;
+}
+.First{
+    max-height: 40px;
+    position: relative;
+
+}
